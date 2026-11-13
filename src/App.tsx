@@ -5,7 +5,8 @@ const App = () => {
   return (
     <div className="min-h-screen w-full bg-slate-600 text-white p-5 tracking-wider font-semibold 
     text-xl">
-        <h2>Hello from Master Branch!</h2>
+
+      <h2>Hello from Master and Feature Branches!</h2>
 
         <div>
             <p>My name is James.</p>
