@@ -73,3 +73,6 @@ export default defineConfig([
 ])
 
 ```
+
+## Learning Git fetch and pull
+I am practicing Git collaboration workflows.
